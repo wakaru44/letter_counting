@@ -5,6 +5,6 @@ help:
 
 
 run:
-	docker run --rm -it -p 8888:8888 -v $(pwd)/code:/home/jovyan/work  jupyter/base-notebook:python-3.7.3
+	docker run --rm -it -p 8888:8888 -v $(shell pwd)/code:/home/jovyan/work  jupyter/base-notebook:python-3.7.3
 
 

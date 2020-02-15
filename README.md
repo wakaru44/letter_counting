@@ -30,9 +30,7 @@ Once started the local environmen, click on the url on the output. Here is an ex
         http://023871f8100a:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd
      or http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd
 
-so in this case it will be:
-
-     [ http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd](http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd)
+so in this case it will be: [ http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd](http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd)
 
 
 

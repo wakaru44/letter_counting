@@ -5,3 +5,4 @@ matplotlib
 xlrd
 jupyternotify
 seaborn
+xlwt

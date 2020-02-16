@@ -3,3 +3,5 @@ unidecode
 jupyter
 matplotlib
 xlrd
+jupyternotify
+seaborn

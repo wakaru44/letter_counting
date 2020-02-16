@@ -44,6 +44,46 @@ Once started the local environmen, click on the url on the output. Here is an ex
 so in this case it will be: [ http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd](http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd)
 
 
+## Instrucciones Simples
+
+### Como ejecutar y modificar el Notebook
+
+
+1.  ABRIR GIT ( menu inicio, gitbash)
+2.  Ir a la carpeta del projecto y ejecutar (run) el notebook
+
+        cd workspace/letter_counting/
+        winpty make run
+
+3.  Abrir la URL en la ultima linea de la salida (del texto). Cuand haya terminado (normalmente unos pocos segundos)
+    a.  http://127.0.0.1:8888/?token=2e321bccbbd47b7cb94f1878c206be05d0443934d1b56e3c
+
+4.  En la URL veras un navegador de archivos. El notebook esta en “work/code/letterBLABLABLA”
+5.  Abre el notebook, y ejecuta las celdas por orden.
+    a.  No ejecutes las que pone DEBUG, TMP, SKIP (desarrollo, temporal y pasar)
+
+### Como salvar cambios en el notebook online
+
+Cuando guardas en el notebook, queda guardado en el sistema de archivvos local.
+Para guardar a la nube y compartirlo, estando en la consola de git (gitbash) y desde la carpeta del projecto, ejecutar
+
+        git commit -a -m “guardando cambios o algo asi”
+
+Y esto subira los cambios a [github](github.com/juanantoniofm), en los archivos conocidos. 
+Si has creado archivos nuevos y tambien los quieres agregar, ejecuta
+
+        git add .
+        git commit -m “guardando cambios o algo asi”
+
+### Abrir archivos desde gitbash en Windows
+
+Desde el shell de gitbash, en cualquier carpeta que estes, ejecuta
+
+    explorer .
+
+Ojo que el punto ese es importante. Esto abrira una ventana del navegador para que puedas manejar 
+los archivos como quieras.
+
 
 
 

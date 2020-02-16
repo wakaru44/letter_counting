@@ -15,6 +15,10 @@ This notebook, also calculates a number of other variables, like
 
 ## Usage
 
+Read a static copy [here](https://github.com/juanantoniofm/letter_counting/blob/master/code/Letter%20Counting.ipynb)
+
+If you want to run it yourself:
+
 You will need some prerequisites on your machine (click on the links for more info)
 
 - [Docker](https://docs.docker.com/docker-for-windows/)

@@ -44,12 +44,12 @@ Once started the local environmen, click on the url on the output. Here is an ex
 so in this case it will be: [ http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd](http://127.0.0.1:8888/?token=b716b9908f109c9b4922a8dcadb3bec5b1d2aacb7a8ccafd)
 
 
-## Instrucciones Simples
+## Instrucciones Simples para Windows
 
 ### Como ejecutar y modificar el Notebook
 
 
-1.  ABRIR GIT ( menu inicio, gitbash)
+1.  Abrir Git Shell ( menu inicio, gitbash)
 2.  Ir a la carpeta del projecto y ejecutar (run) el notebook
 
         cd workspace/letter_counting/

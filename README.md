@@ -14,7 +14,7 @@ This notebook, also calculates a number of other variables, like
 
 and then extract words that we care about, like
 
-    ![word_space](./word_space.png)
+    ![word_space](file://./word_space.png)
 
 ## Usage
 

@@ -12,6 +12,9 @@ This notebook, also calculates a number of other variables, like
     rho (total strokes required to write a word)
     lenght (of the word)
 
+and then extract words that we care about, like
+
+    ![word_space](./word_space.png)
 
 ## Usage
 

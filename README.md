@@ -75,6 +75,22 @@ Si has creado archivos nuevos y tambien los quieres agregar, ejecuta
         git add .
         git commit -m “guardando cambios o algo asi”
 
+### Descargar los archivos ultimos cambios de github
+
+Para descargar los archivos, teniendo el repositorio clonado, tienes que iniciar el git_bash, ir a la carpeta con el repo, y "Tirar" los cambios hacia "abajo".
+
+- En el menu de inicio, abre `git_bash` 
+
+- En el shell de git, vete hacia la carpeta con el repo. (Recuerda usar `Tab` para autocompletar)
+
+        `cd workspace/letter_counting` 
+        
+- ejecuta el comando de git para descargar los cambios. (Pull significa Tirar)
+
+        `git pull` 
+
+Y ya esta, ya tienes los cambios en tu maquina.
+
 ### Abrir archivos desde gitbash en Windows
 
 Desde el shell de gitbash, en cualquier carpeta que estes, ejecuta

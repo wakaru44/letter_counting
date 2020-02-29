@@ -68,12 +68,14 @@ Cuando guardas en el notebook, queda guardado en el sistema de archivvos local.
 Para guardar a la nube y compartirlo, estando en la consola de git (gitbash) y desde la carpeta del projecto, ejecutar
 
         git commit -a -m “guardando cambios o algo asi”
+        git push
 
 Y esto subira los cambios a [github](github.com/juanantoniofm), en los archivos conocidos. 
 Si has creado archivos nuevos y tambien los quieres agregar, ejecuta
 
         git add .
         git commit -m “guardando cambios o algo asi”
+        git push
 
 ### Descargar los archivos ultimos cambios de github
 

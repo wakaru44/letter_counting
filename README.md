@@ -77,6 +77,15 @@ Si has creado archivos nuevos y tambien los quieres agregar, ejecuta
         git commit -m “guardando cambios o algo asi”
         git push
 
+### Comprobar si hay cambios locales
+
+Para verificar si tienes cambios locales, o si ves que te esta dando problemas a descargar (pull).
+
+En un terminal de git, estando en la carpeta del repositorio. ejecuta
+
+        git status
+        
+Y te mostrara los archivos cambiados.
 ### Descargar los archivos ultimos cambios de github
 
 Para descargar los archivos, teniendo el repositorio clonado, tienes que iniciar el git_bash, ir a la carpeta con el repo, y "Tirar" los cambios hacia "abajo".
